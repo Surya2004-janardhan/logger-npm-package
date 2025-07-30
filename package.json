@@ -1,8 +1,10 @@
 {
-  "name": "log-transformer",
-  "displayName": "Log Transformer",
+    "name": "logscope",
+  "displayName": "LogScope",
   "description": "Transforms log() to console.log(...) on save",
   "version": "1.0.0",
+    "publisher": "LogScope", 
+
   "engines": {
     "vscode": "^1.85.0"
   },
